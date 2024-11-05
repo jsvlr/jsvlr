@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose
 ============================================================================================================================
 
-Web Developer
+Backend Web Developer
 -------------
 
-I've been learning to code from 1 year now. I started from the frontend but really found on backend mainly using relational database.
+I've been learning to code from 1 year now. I started from the frontend but really found my passion on backend mainly using relational database.
 
 * 🌍  I'm based in Pangasinan, Philippines
 * ✉️  You can contact me at [josedalanon630@gmail.com](mailto:josedalanon630@gmail.com)
